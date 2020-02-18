@@ -1,4 +1,4 @@
-require_relative "./spec/spec_helper.rb"
+require_relative "../spec/spec_helper.rb"
 
 describe 'Dog' do
   it 'is defined' do
